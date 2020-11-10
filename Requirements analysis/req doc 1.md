@@ -17,6 +17,7 @@ traditional methods of record keeping by hand. The software would determine the 
 quantity of materials needed for the production of their product as well as display, modify, delete
 and add data.
 
+
 ## Rationale for the proposed system:
 After much consideration, I chose to make a software (object-oriented programming), in
 conjunction of a database, rather than only having a database to perform the task. This is
